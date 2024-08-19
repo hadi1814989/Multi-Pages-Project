@@ -1,0 +1,31 @@
+.menu-bg{
+   position: absolute !important;
+   left: 0%;
+   top: 0%;
+   width: 100%;
+   background-color: #1C1E53;
+}
+.menu-padding{
+    padding: 0px 30px !important;
+    font-size: 18px !important;
+    line-height: 34px;
+}
+.menu-padding a{
+    color: #BBBBCB !important;
+}
+.menu-router{
+    padding: 0px 15px !important;
+    font-size: 18px !important; 
+    color: #BBBBCB !important;
+    text-decoration: none;
+    line-height: 50px;
+}
+.nav-btn{
+    border-radius: 50px !important;
+    border: 1px solid #BBBBCB !important;
+    --bs-btn-color: #000 !important;
+    --bs-btn-bg: #1C1E53 !important;
+}
+.nav-btn:hover{
+    --bs-btn-hover-bg: #BBBBCB !important;
+}

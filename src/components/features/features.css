@@ -1,0 +1,24 @@
+#features{
+    margin: 128px 0px;
+}
+#features p{
+    text-align: center;
+   
+}
+#features h2{
+    text-align: center;
+    font-size: 48px;
+    padding-bottom: 47px;
+}
+.feat-img{
+    width: 30px !important;
+    height: 28px;
+}
+.feat-p{
+    width: 325px;
+    text-align: left !important;
+}
+.card-pad{
+    padding: 53px 33px 48px 49px;
+    border: none !important;
+}

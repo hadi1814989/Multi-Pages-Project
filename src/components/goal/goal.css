@@ -1,0 +1,19 @@
+#goal{
+    padding-top: 80px;
+    margin-bottom: 128px;
+}
+.goal-div-l h2{
+    font-size: 34px;
+    font-weight: bold;
+    padding-top: 4px;
+    padding-bottom: 16px;
+}
+.goal-div-l p{
+    padding-bottom: 80px;
+}
+.goal-div-r h2{
+    padding-top: 29px;
+    font-size: 34px;
+    font-weight: bold;
+    padding-bottom: 16px;
+}

@@ -1,0 +1,30 @@
+#mission{
+    padding: 128px 0px;
+    margin-bottom: 128px;
+    background-color: #EEF4FA;
+}
+.misson-div-l h2{
+    padding:16px 0px ;
+    font-size: 38px;
+    font-weight: 600;
+}
+.misson-div-l p, span{
+    font-size: 16px;
+}
+.misson-div-l span{
+    font-weight: 500;
+}
+.misson-div-r{
+    padding-top: 96px;
+}
+.misson-div-r h2{
+    padding:16px 0px ;
+    font-size: 38px;
+    font-weight: 600;
+}
+.misson-div-r p, span{
+    font-size: 16px;
+}
+.misson-div-r span{
+    font-weight: 500;
+}

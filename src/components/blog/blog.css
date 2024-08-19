@@ -1,0 +1,10 @@
+#blog{
+    margin: 128px 0px;
+}
+#blog h2{
+    padding-bottom:64px ;
+    font-size: 48px;
+}
+.blog-card{
+    border: none !important;
+}

@@ -1,0 +1,17 @@
+#aboutus{
+    margin: 128px 0px;
+}
+#aboutus h2{
+    font-size: 54px;
+    padding-top: 8px;
+    padding-bottom: 31px;
+}
+#aboutus span{
+    font-weight: bold;
+}
+#aboutus p{
+    font-size: 16px;
+}
+.aboutus-img{
+    margin-left: 6rem;
+}

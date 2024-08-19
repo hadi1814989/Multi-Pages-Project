@@ -1,0 +1,28 @@
+#benefit{
+    margin: 128px 0px;
+}
+#benefit h2{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    padding-bottom: 48px;
+}
+.benefit-card{
+    border: none !important;
+    padding: 50px 33px 48px 48px;
+}
+.benefit-card-bg{
+    background-color: #F4F6FC;
+}
+.title-font{
+    font-size: 24px;
+    font-weight: 500;
+}
+.benefit-img{
+    width: 30px !important;
+    height: 30px;
+    margin-left: 1rem;
+}
+.benefit-logos{
+    padding-top: 48px ;
+}

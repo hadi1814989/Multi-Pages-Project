@@ -1,0 +1,26 @@
+#team{
+    background-color: #F4F6FC;
+    padding: 128px 0px;
+}
+#team h2{
+    text-align: center;
+    padding-bottom: 48px;
+    font-size: 48px;
+    font-weight: 600;
+}
+.custom-card{
+    padding: 48px 64px 32px 64px;
+    background-color: #ffffff;
+    text-align: center;
+}
+.team-img{
+    width: 164px;
+    height: 164px;
+    border-radius: 50%;
+}
+#team h6{
+    padding-top: 30px;
+    padding-bottom: 2px;
+    font-weight: 500;
+    font-size: 24px;
+}

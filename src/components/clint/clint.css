@@ -1,0 +1,17 @@
+#clint{
+    padding-top:128px;
+    padding-bottom: 130px;
+    background-color: #F4F6FC;
+}
+.clint-mini-div{
+    display: flex;
+}
+.clint-mini-div img{
+    margin-right: 1.5rem;
+}
+.clint-mini-div span{
+    font-size: 12px;
+}
+.clint-mini-div p{
+    margin-bottom: 0px !important;
+}

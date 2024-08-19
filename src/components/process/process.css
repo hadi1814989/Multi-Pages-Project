@@ -1,0 +1,35 @@
+#process{
+    margin-bottom: 128px;
+}
+#process h2{
+    font-size: 48px;
+    padding-bottom: 104px ;
+    font-weight:600;
+    text-align: center;
+    margin: 0px !important;
+}
+.process-card{
+    border: none !important;
+}
+.card-bg{
+    background-color: #fff !important;
+}
+.position-precess{
+    position: relative;
+}
+.cercle{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 50%;
+    /* position: absolute;
+    top: 0%;
+    left: 0%; */
+}
+.line {
+    border: 1px dashed #2405F2;
+    width: 200px;
+    position: absolute;
+    top: 53%;
+    right: 20%;
+}

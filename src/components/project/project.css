@@ -1,0 +1,66 @@
+#project{
+    margin: 128px 0px;
+}
+.pro-l h2{
+    padding-bottom: 64px;
+    font-size: 48px;
+}
+.pro-l{
+    position: relative;
+}
+.pro-l::after {
+    position: absolute;
+    left: 0%;
+    top: 18%;
+    content: '';
+    background-color: #1c1e53bd;
+    width: 50%;
+    height: 82%;
+    transition: 0.5s;
+}
+.pro-l:hover::after{
+    width: 100%;
+}
+.pro-r1{
+   width: 100%; 
+   height: 284px;
+   font-size: 16px;
+   position: relative;
+}
+.pro-r1::after {
+    position: absolute;
+    left: 2%;
+    top: 0%;
+    content: '';
+    background-color: #1c1e53bd;
+    width: 95%;
+    height: 50%;
+    transition: 0.5s;
+}
+.pro-r1:hover::after{
+    height: 100%;
+}
+.pro-r2{
+   width: 100%; 
+   height: 284px;
+   font-size: 16px;
+   position: relative;
+}
+.pro-r2::after {
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    content: '';
+    background-color: #1c1e53bd;
+    width: 97%;
+    height: 50%;
+    transition: 0.5s;
+}
+.pro-r2:hover::after{
+    height: 100%;
+}
+.pro-r p{
+    padding-top: 25px;
+margin-left: 81%;
+padding-bottom: 64px !important;
+}
