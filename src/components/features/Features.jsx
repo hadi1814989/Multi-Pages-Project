@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Features.css"
+import "./features.css"
 import img1 from "../../assets/featureimg1.png"
 import img2 from "../../assets/featureimg2.png"
 import img3 from "../../assets/featureimg3.png"
